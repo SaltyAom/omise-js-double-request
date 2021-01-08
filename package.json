@@ -1,0 +1,20 @@
+{
+  "name": "omise-js-double-request",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^10.0.4",
+    "omise": "^0.8.5",
+    "omise-js-typed": "^2.5.6-revision.3",
+    "preact": "^10.5.9",
+    "preact-ssr-prepass": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0"
+  }
+}
